@@ -1,7 +1,7 @@
 # hello-world
-This is my first ever repository on github
-Hello, i am a wrecking ball in motion crushing walls of obstacles
-to reach my goals..
+Peace to the universe :relaxed:
+
+![headshot](1478082181269.jpg)
 
 # A little Insight into CandentMind
 Hello world, I am Emmanuel Efe, a passionate and budding web developer learning the ropes and weaving along.. :smile:
@@ -11,5 +11,4 @@ I really love working in tech, I love working with computers, I love problem sol
 
 ## My Hobbies
 Oh, rap music and poetry, listening and composing. Also, reading.
-
 

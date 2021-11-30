@@ -1,13 +1,13 @@
-# hello-world
+# Hello-world
 Peace to the universe :relaxed:
 
 ![headshot](1478082181269.jpg)
 
 # A little Insight into CandentMind
-Hello world, I am Emmanuel Efe, a passionate and budding web developer learning the ropes and weaving along.. :smile:
+Hello world, I am Emmanuel Efe (short for Efegodo) :wink:, a passionate and budding web developer learning the ropes and weaving along.. :smile:
 
 ## My Career Passions
-I really love working in tech, I love working with computers, I love problem solving and the thrill that comes from 'aha moments'. I love tinkering and tweaking stuffs. My goal is to become a fullstack software developer. I am also a video editor.
+I really love working in tech, I love working with computers, I love problem solving and the thrill that comes from 'aha moments', it's euphoric. I love tinkering and tweaking stuffs. My goal is to become a fullstack software developer. I am also into video editing. Plus lately i've been introduced to the BBC microbit microcontroller and i'm dabbling into micropython, main python and block-based languages to become well-rounded and more versed enough to instruct, teach, lead and inspire young learners to code.
 
 ## My Hobbies
 Oh, rap music and poetry, listening and composing. 

@@ -6,7 +6,7 @@ Peace to the universe :relaxed:
 |<b>Reclined</b>|
 
 # A little Insight into CandentMind
-I am Emmanuel Efe (short for Efegodo) :wink:, a passionate and budding web developer learning the ropes of front-end technologies (Javascript, Jquery, React, Gatsby) and weaving along.. :smile:
+I am Emmanuel Efe (short for Efegodo) :wink:, a passionate and budding web developer from Nigeria learning the ropes of front-end technologies (Javascript, Jquery, React, Gatsby) and weaving along.. :smile:
 
 |![junior-x-team-half](https://user-images.githubusercontent.com/47579096/143974305-55c3b9b8-f22c-435a-a641-248ece498c78.jpg)|
 |:--:|
